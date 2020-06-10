@@ -8,7 +8,7 @@ const ImageBackground = styled(BackgroundImage)`
   background-size: cover;
   height: 50vh;
 
-  + * {
+  * + * {
     margin-top: 0;
   }
 `;
